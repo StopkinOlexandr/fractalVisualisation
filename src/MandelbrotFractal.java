@@ -12,6 +12,8 @@ public class MandelbrotFractal extends JFrame {
 
   private BufferedImage buffer;
 
+
+
   public MandelbrotFractal() {
     super("Mandelbrot Fractal");
     setBounds(100, 100, WIDTH, HEIGHT);
